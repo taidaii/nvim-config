@@ -1,5 +1,7 @@
 # Neovim Configuration
 
+![image](https://github.com/taidaii/nvim-config/assets/58059997/2a58f763-0864-4834-8439-f0b5dda673f8)
+
 ## Structure
 
 ```
