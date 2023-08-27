@@ -1,0 +1,5 @@
+require "taidaii.options"
+require "taidaii.keymaps"
+require "taidaii.plugins"
+require "taidaii.colorscheme"
+require "taidaii.lsp"
