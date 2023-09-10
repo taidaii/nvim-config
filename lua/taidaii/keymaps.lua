@@ -32,5 +32,5 @@ keymap("n", "<leader>f", "<cmd>Telescope find_files<cr>", opts)
 keymap("n", "<leader>e", "<cmd>NvimTreeToggle<cr>", opts)
 
 -- toggleterm
-keymap("n", "<C-t>", "<cmd>ToggleTerm<cr>", opts)
-keymap("t", "<C-t>", "<cmd>ToggleTerm<cr>", opts)
+keymap("n", "<C-\\>", "<cmd>ToggleTerm<cr>", opts)
+keymap("t", "<C-\\>", "<cmd>ToggleTerm<cr>", opts)
